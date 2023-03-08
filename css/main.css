@@ -17,3 +17,17 @@ h1 {
     padding-top: 1em;
 }
 
+.footer {
+   
+    background-color: #A7727D;
+    display: flex;
+    justify-content: space-between;
+    color: #EDDBC7;
+}
+
+.foot {
+    margin-right: 10em;
+    margin-left: 2em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
